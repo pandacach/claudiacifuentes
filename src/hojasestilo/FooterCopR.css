@@ -1,0 +1,14 @@
+.copy-rights{
+    text-decoration-line: underline;
+    align-items: center;
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    width: 1600px;
+  
+    background: #ffff99;
+    color: #333;
+  }
+  .foto-pc{
+   background-image: url(../imagenes/imagen_pc4.jpg);
+  }

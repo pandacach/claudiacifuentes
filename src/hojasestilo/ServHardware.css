@@ -1,0 +1,29 @@
+.cont-hardware{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px;
+    justify-content: center;
+    box-shadow: 0 3px 13px 1px rgb(26, 204, 85);
+    background-image: url(../imagenes/MemoriaRAM.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+}
+p{
+    color: chartreuse;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    justify-content: right;
+    text-align: justify;
+}
+h2{
+    color:red;
+    hyphens: auto;
+    font-family: 'Times New Roman', Times, serif;
+}

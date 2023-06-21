@@ -1,0 +1,31 @@
+.cont-equipos{
+
+    background-image: url(../imagenes/softwareyapps.png);
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px;
+    justify-content: flex-start;
+    box-shadow: 0 3px 13px 1px rgb(26, 204, 85);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+    background-color: rgb(240, 84, 240);
+  }
+  button {
+    padding: 7px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    font-size: 24px;
+  }
+  button:hover {
+    background-color: chocolate; /* Green */
+    color: #8a0f26;
+    font-size: 24px;
+  }
